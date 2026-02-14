@@ -1,116 +1,81 @@
-# Hey 👋 I'm Dhruv Shah
-
-💻 Software Developer  
-🌐 Web Developer  
-🧠 DSA Practitioner  
+<h1 align="center">Hey 👋, I'm Dhruv Shah</h1>
+<h3 align="center">Software Developer | Web Developer | DSA Practitioner</h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack & Skills
 
-- 🎓 Computer Science Student
-- 💡 I enjoy building real-world usable software
-- 🛠 Focused on web applications + product-style development
-- 📚 Regularly practice Data Structures & Algorithms
-
----
-
-## 🧠 Current Focus
-
-- 🌐 Building dynamic web applications
-- 🗄 Backend + Database integration
-- 🧩 Software Engineering project development
-- 📚 Solving DSA problems consistently
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,html,css" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 What I Do
 
-### 👨‍💻 Languages
-- C++
-- Python
-- JavaScript
-
----
-
-### 🌐 Web Development
-- HTML5
-- CSS3
-- React.js
-- Node.js (Basics)
-- REST APIs (Basics)
+- 💻 Build real-world web applications  
+- 📚 Practice Data Structures & Algorithms  
+- 🛠 Work on product-style software projects  
+- 🧩 Develop software engineering academic systems  
 
 ---
 
-### 📊 Data Libraries
-- NumPy
-- Pandas
-- Matplotlib
+## 📂 Featured Projects
+
+### 🌿 Ayurvedic Medicine Platform *(Client Project)*
+- React frontend  
+- Medicine listing system  
+- Filtering + search (Planned)  
+- Backend + Database (In Progress)  
 
 ---
 
-## 📂 Major Projects
-
-### 🌿 Ayurvedic Medicine Platform
-- React based frontend
-- Medicine listing system
-- Planned filtering, search, and product UI
-- Backend + database integration (In Progress)
+### 💰 CompareFi — Financial Comparison Platform *(Client Project)*
+- Financial product comparison UI  
+- Structured data comparison  
+- Scalable architecture design  
+- Product-first development approach  
 
 ---
-
-### 💰 CompareFi (Financial Comparison Platform)
-- Financial product comparison concept
-- Structured data comparison UI
-- Scalable architecture planning
-- Product-style development approach
-
----
-
-## 🧩 Software Engineering / Academic Projects
 
 ### 🎓 Academic Management System
-- Use Case Diagrams
-- System Architecture Design
-- Functional & Non-Functional Requirement Planning
-- Documentation Driven Development
+- Use Case Design  
+- System Architecture  
+- Functional & Non-Functional Requirements  
+- Software Engineering Documentation  
 
 ---
 
-### 🧪 Other Small Engineering Projects
-- System design mini implementations
-- Flowchart and architecture based builds
-- Feature-focused academic applications
+## 📊 GitHub Activity
 
----
+<p align="center">
 
-## 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=dhruvshah1102&theme=tokyonight&hide_border=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvshah1102&show_icons=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvshah1102&layout=compact)
+<img src="https://ghchart.rshah.org/dhruvshah1102" />
 
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build Production Level Full Stack Projects
-- 💻 Contribute to Real World Software Projects
-- 🌐 Build Scalable Web Applications
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: (Add Link)
-- 📫 Email: (Add Email)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dhruv-shah-7a4482323/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:shahdhruv812@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I like building product-style projects more than tutorial clones.
-
----
-
-⭐ If you like my work, consider starring my repositories!
+☕ I like turning ideas into real working software.
